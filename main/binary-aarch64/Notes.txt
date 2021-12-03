@@ -1,0 +1,1 @@
+This is my first Operating System that is based on Debian, im also having a hard time setting up a repo.
